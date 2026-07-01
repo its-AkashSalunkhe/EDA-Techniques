@@ -1,12 +1,8 @@
-# EDA-Techniques
-Exploratory Data Analysis using Pandas, NumPy, Matplotlib and Seaborn with real-world datasets.
-
-
 # Exploratory Data Analysis (EDA)
 
-## Overview
+## 📌 Overview
 
-This repository demonstrates Exploratory Data Analysis (EDA) techniques using Python.
+This repository demonstrates various Exploratory Data Analysis (EDA) techniques using Python on real-world datasets.
 
 The project focuses on understanding datasets before applying machine learning algorithms.
 
@@ -34,11 +30,11 @@ The project focuses on understanding datasets before applying machine learning a
 
 ## Dataset
 
-Dataset Name: Titanic Dataset
+Dataset Name: raw_data.csv
 
-Rows: 891
+Rows: 6
 
-Columns: 12
+Columns: 6
 
 ---
 
@@ -61,6 +57,32 @@ Columns: 12
 ✔ Heatmaps
 
 ---
+# Exploratory Data Analysis (EDA)
+
+## Correlation plot
+
+![Correlationplot](images/lm_plot.png)
+
+---
+
+## Histogram
+
+![Histogram](images/Hist_plot.png)
+
+---
+
+## Distribution plot
+
+![Distributionplot](images/Dist_plot.png)
+
+---
+
+## Outlier Detection Plot
+
+![OutlierDetectionplot](images/lm_plot_outlier_detection.png)
+
+---
+
 
 ## Project Structure
 
